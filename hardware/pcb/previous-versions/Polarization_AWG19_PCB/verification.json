@@ -1,0 +1,13 @@
+{
+  "board_size_mm": [
+    100,
+    80
+  ],
+  "copper_layers": 2,
+  "circuit_footprints": 31,
+  "mounting_holes": 4,
+  "pin_net_connections_verified": 103,
+  "tracks_and_vias": 297,
+  "ground_zones": 1,
+  "status": "ENGINEERING DRAFT - not fabrication released"
+}

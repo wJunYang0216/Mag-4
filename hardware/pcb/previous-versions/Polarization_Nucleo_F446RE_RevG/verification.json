@@ -1,0 +1,17 @@
+{
+  "board_size_mm": [
+    100,
+    80
+  ],
+  "copper_layers": 2,
+  "circuit_footprints": 43,
+  "mounting_holes": 4,
+  "pin_net_connections_verified": 140,
+  "tracks_and_vias": 428,
+  "ground_zones": 1,
+  "mcu": "NUCLEO-F446RE",
+  "interface": "J3 1x12 cable",
+  "shunt": "Bourns CRG2512-FZ-R250E-2 0.25 ohm 2W",
+  "amplifier": "INA241A1IDR",
+  "status": "ENGINEERING DRAFT - not bench tested"
+}

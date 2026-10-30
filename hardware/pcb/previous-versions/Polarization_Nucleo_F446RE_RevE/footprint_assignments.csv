@@ -1,0 +1,47 @@
+Reference,Value,Footprint
+C1,1u,Capacitor_SMD:C_0805_2012Metric
+C2,10n,Capacitor_SMD:C_0805_2012Metric
+C3,1u U1-8,Capacitor_SMD:C_0805_2012Metric
+C4,1u U1-6,Capacitor_SMD:C_0805_2012Metric
+C5,1u U3,Capacitor_SMD:C_0805_2012Metric
+C6,100n U2,Capacitor_SMD:C_0805_2012Metric
+C7,100n U2,Capacitor_SMD:C_0805_2012Metric
+C8,100n U4,Capacitor_SMD:C_0805_2012Metric
+C9,100n / 16V,Capacitor_SMD:C_0805_2012Metric
+D1,TVS 43V - TBD,Diode_SMD:D_SMB
+D2,FAST - TBD,Diode_SMD:D_SMA
+H1,MountingHole_3.2mm_M3,MountingHole_3.2mm_M3
+H2,MountingHole_3.2mm_M3,MountingHole_3.2mm_M3
+H3,MountingHole_3.2mm_M3,MountingHole_3.2mm_M3
+H4,MountingHole_3.2mm_M3,MountingHole_3.2mm_M3
+J1,12V INPUT / 3V3 MONITOR,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal"
+J2,EXTERNAL AWG19,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+J3,NUCLEO-F446RE CABLE,Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical
+J4,TO AMPLIFIER,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+J5,RAW SHUNT SENSE,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+Q1,IRF530,Package_TO_SOT_THT:TO-220-3_Vertical
+Q4,IRF9640,Package_TO_SOT_THT:TO-220-3_Vertical
+Q5,IRF530,Package_TO_SOT_THT:TO-220-3_Vertical
+R1,22,Resistor_SMD:R_0805_2012Metric
+R10,100,Resistor_SMD:R_0805_2012Metric
+R11,100k,Resistor_SMD:R_0805_2012Metric
+R12,100k,Resistor_SMD:R_0805_2012Metric
+R13,100k,Resistor_SMD:R_0805_2012Metric
+R14,100k,Resistor_SMD:R_0805_2012Metric
+R15,100k,Resistor_SMD:R_0805_2012Metric
+R16,100k,Resistor_SMD:R_0805_2012Metric
+R17,10k,Resistor_SMD:R_0805_2012Metric
+R18,10k,Resistor_SMD:R_0805_2012Metric
+R2,22,Resistor_SMD:R_0805_2012Metric
+R3,2.2,Resistor_SMD:R_0805_2012Metric
+R4,100k,Resistor_SMD:R_0805_2012Metric
+R5,100k,Resistor_SMD:R_0805_2012Metric
+R6,100k,Resistor_SMD:R_0805_2012Metric
+R7,10k,Resistor_SMD:R_0805_2012Metric
+R8,10k,Resistor_SMD:R_0805_2012Metric
+R9,0.05 / 0.5W,Resistor_SMD:R_2512_6332Metric
+U1,LTC1693-1,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
+U2,ADG5412F,Package_SO:TSSOP-16_4.4x5mm_P0.65mm
+U3,LTC1693-5,Package_SO:MSOP-8_3x3mm_P0.65mm
+U4,INA240A1PW,Package_SO:TSSOP-8_4.4x3mm_P0.65mm
+U5,SN74AHCT125PWR,Package_SO:TSSOP-14_4.4x5mm_P0.65mm

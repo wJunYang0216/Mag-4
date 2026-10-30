@@ -1,0 +1,15 @@
+{
+  "revision": "H",
+  "board_mm": [
+    120,
+    80
+  ],
+  "copper_layers": 2,
+  "board_pin_net_audit_count": 164,
+  "ground_planes": 1,
+  "coil_path_added_trace_width_mm": 1.2,
+  "new_power_bridge_via_drill_mm": 0.6,
+  "bench_tested": false,
+  "receiver": "INA818 supply/bias circuit unconfirmed",
+  "status": "First-prototype fabrication candidate; see RELEASE_NOTES.md"
+}

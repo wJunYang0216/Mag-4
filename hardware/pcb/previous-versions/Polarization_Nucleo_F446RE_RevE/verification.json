@@ -1,0 +1,16 @@
+{
+  "board_size_mm": [
+    100,
+    80
+  ],
+  "copper_layers": 2,
+  "circuit_footprints": 42,
+  "mounting_holes": 4,
+  "pin_net_connections_verified": 137,
+  "tracks_and_vias": 425,
+  "ground_zones": 1,
+  "mcu": "NUCLEO-F446RE",
+  "interface": "J3 1x12 cable",
+  "raw_sense_header": "J5 1x02",
+  "status": "ENGINEERING DRAFT - not fabrication released"
+}
