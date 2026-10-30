@@ -1,0 +1,18 @@
+# Generated solver output
+*.raw
+*.op.raw
+*.db
+
+# KiCad local state and backups
+*.kicad_prl
+*.lck
+*-backups/
+.history/
+
+# Python and editor caches
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.DS_Store
+Thumbs.db

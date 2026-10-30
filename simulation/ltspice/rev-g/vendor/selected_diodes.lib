@@ -1,0 +1,10 @@
+* Engineering approximations, NOT manufacturer SPICE models.
+* D1 selected part: Littelfuse SMBJ28A, unidirectional, SMB.
+* BV=34.4V upper breakdown endpoint at 1mA (25C).
+* Rs=0.81 approximates slope toward 45.4V at 13.3A; not a guaranteed envelope.
+* Cjo=500p retained assumption; actual capacitance and thermal effects not fitted.
+.model SMBJ28A_APPROX D(Is=1n N=1 Rs=0.81 Bv=34.4 Ibv=1m Cjo=500p)
+* D2 selected part: Vishay US1D-E3/61T, SMA, 200V, 1A average.
+* Forward drop approximately 1V at 1A. Tt is an assumed charge-storage parameter,
+* NOT a fitted reproduction of the datasheet 50ns recovery test.
+.model US1D_APPROX D(Is=10n N=2 Rs=0.05 Bv=200 Ibv=10u Cjo=20p M=0.33 Vj=0.7 Tt=25n)

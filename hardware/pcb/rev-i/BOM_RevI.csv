@@ -1,0 +1,52 @@
+Reference,Value,Manufacturer,MPN,Footprint,Quantity,Populate
+C1,1u,,,Capacitor_SMD:C_0805_2012Metric,1,YES
+C10,100n,,,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm,1,YES
+C2,10n,,,Capacitor_SMD:C_0805_2012Metric,1,YES
+C3,1u U1-8,,,Capacitor_SMD:C_0805_2012Metric,1,YES
+C4,1u U1-6,,,Capacitor_SMD:C_0805_2012Metric,1,YES
+C5,1u U3,,,Capacitor_SMD:C_0805_2012Metric,1,YES
+C6,100n U2,,,Capacitor_SMD:C_0805_2012Metric,1,YES
+C7,100n U2,,,Capacitor_SMD:C_0805_2012Metric,1,YES
+C8,100n U4,,,Capacitor_SMD:C_0805_2012Metric,1,YES
+C9,100n / 16V,,,Capacitor_SMD:C_0805_2012Metric,1,YES
+D1,SMBJ28A,,,Diode_SMD:D_SMB,1,YES
+D2,US1D-E3/61T,,,Diode_SMD:D_SMA,1,YES
+D3,1N4148,onsemi,1N4148,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,1,YES
+J1,12V INPUT / 3V3 MONITOR,,,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal",1,YES
+J2,TO COIL,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,YES
+J3,NUCLEO-F446RE CABLE,,,Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical,1,YES
+J4,TO INAMP,,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,1,YES
+J5,RAW SHUNT SENSE,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,YES
+J6,LEGACY RX TEST ONLY,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,NO - test only
+J7,DRIVER TEST ONLY,,,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",1,NO - test only
+K1,G6K-2P DC5,Omron,G6K-2P DC5,Relay_THT:Relay_DPDT_Omron_G6K-2P,1,YES
+Q1,IRF530,,,Package_TO_SOT_THT:TO-220-3_Vertical,1,YES
+Q4,IRF9640,,,Package_TO_SOT_THT:TO-220-3_Vertical,1,YES
+Q5,IRF530,,,Package_TO_SOT_THT:TO-220-3_Vertical,1,YES
+Q6,2N3904,onsemi,2N3904BU,Package_TO_SOT_THT:TO-92_Inline,1,YES
+R1,22,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R10,1k / 0.1%,Yageo,RT0805BRD071KL,Resistor_SMD:R_0805_2012Metric,1,YES
+R11,100k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R12,100k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R13,100k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R14,100k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R15,100k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R16,100k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R17,10k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R18,10k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R19,1.5k / 0.1%,Yageo,RT0805BRD071K5L,Resistor_SMD:R_0805_2012Metric,1,YES
+R2,22,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R20,1k,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,YES
+R21,100k,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,YES
+R3,2.2,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R4,100k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R5,100k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R6,100k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R7,10k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R8,10k,,,Resistor_SMD:R_0805_2012Metric,1,YES
+R9,0.25 / 2W / 1%,Bourns,CRG2512-FZ-R250E-2,ProjectFootprints:R_CRG2512,1,YES
+U1,LTC1693-1,,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,1,YES
+U2,ADG5412F,,,Package_SO:TSSOP-16_4.4x5mm_P0.65mm,1,YES
+U3,LTC1693-5,,,Package_SO:MSOP-8_3x3mm_P0.65mm,1,YES
+U4,INA241A1IDR,Texas Instruments,INA241A1IDR,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,1,YES
+U5,SN74AHCT125PWR,,,Package_SO:TSSOP-14_4.4x5mm_P0.65mm,1,YES

@@ -1,0 +1,5 @@
+# Preserve simulator files and vendor model bytes exactly.
+simulation/ltspice/rev-g/vendor/* -text
+*.asc -text
+*.asy -text
+*.plt -text

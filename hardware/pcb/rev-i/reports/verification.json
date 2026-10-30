@@ -1,0 +1,11 @@
+{
+  "revision": "I",
+  "board_mm": [
+    100.0,
+    100.0
+  ],
+  "copper_layers": 2,
+  "board_pin_net_audit_count": 164,
+  "ground_planes": 1,
+  "bench_tested": false
+}
